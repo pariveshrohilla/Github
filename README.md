@@ -1,6 +1,10 @@
 # Github
 Add multiple file to git using Cmd
 
+If your files look like this , you better use cmd to put or else it will be a mess to add files one by one
+![github look](https://github.com/user-attachments/assets/acd7ceca-92c2-43a3-b213-145b504bfe29)
+
+
 ## Steps to Upload a File Using CMD
 1. Navigate to your project folder
    
